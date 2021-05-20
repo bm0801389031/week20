@@ -1,0 +1,29 @@
+input
+a string with digits and numbers, and what we want to know 
+is if it is a valid pin made up of only digits
+we'll be a string that only has 4 digits or 6 digits
+
+
+
+function
+
+
+
+output
+brian4146 = false
+4146 = true
+
+
+1. //function statement named validatePIN with param pin
+
+2. //return regular expression and here is a break down
+// start of a regex / and next regexp is ^ which means
+// there is nothing other than what we are checking for in regex
+// () groups multiple tokens togeather tokens are:
+//are \d which matches any digit
+//{6} and{4} a quantifier matches 4 or 6 of the previous token
+// \d in this case
+// $ checks that at the end of the string we dont have any thing else 
+//other than what we are looking for which oare only digits
+// and or in regexp is |
+

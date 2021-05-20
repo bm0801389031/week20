@@ -31,3 +31,16 @@ Calculate the sum of the numbers in the nth row of this triangle (starting at in
 rowSumOddNumbers(1); // 1
 rowSumOddNumbers(2); // 3 + 5 = 8
 FUNDAMENTALSARRAYSLISTSDATA STRUCTURESNUMBERSARITHMETICMATHEMATICSALGORITHMS
+
+### third function regex validate pin
+
+Description:
+ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
+
+If the function is passed a valid PIN string, return true, else return false.
+
+Examples
+"1234"   -->  true
+"12345"  -->  false
+"a234"   -->  false
+FUNDAMENTALSREGULAR EXPRESSIONSDECLARATIVE PROGRAMMINGADVANCED LANGUAGE FEATURESSTRINGS
