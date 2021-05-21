@@ -1,0 +1,28 @@
+input
+find me the next squar root of rooted numbers
+
+so 11 then next would be 12
+
+findNextSquare(121) --> returns 144
+this would be 11 and 12
+
+function
+
+
+
+
+output
+findNextSquare(121) --> returns 144
+
+
+
+
+1. //function statement named findNextSquare with parameter sq
+
+
+2. //variable named root assigned to get me the rooot of my main paramter
+
+3. //return root modulus 1 equal to 0, this verifies my root is true
+// turnary operator if truthy continu Math.pow with parameter
+//root + 1, to the power or 2 
+//if falsy just return me negative one
