@@ -1,0 +1,30 @@
+input
+three parameters abc
+if one side is too big it is not a triangle 
+the way to check is to compare to sides to one and do it
+with every comparison bossible with3 param
+
+
+
+
+function
+
+
+
+
+
+output
+
+(1,2,2), true);
+(7,2,2), false);
+
+
+1. // function statement named isTriangle with parameter a,b,c
+
+2. //high level summary
+//triangles generally have equal or close to equal side length. if one
+//side is to long, it is no longer a triangle
+//the way this is checked is a plus b is greater than c
+//a plus c is greater than b
+//c plus b is greater than a
+//all under the same return and and''''' in between each

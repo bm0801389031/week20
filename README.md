@@ -162,3 +162,14 @@ Examples:
 add_binary(1, 1) == "10" (1 + 1 = 2 in decimal or 10 in binary)
 add_binary(5, 9) == "1110" (5 + 9 = 14 in decimal or 1110 in binary)
 FUNDAMENTALSBINARY
+
+
+
+## TENTH FUNCTION IS THIS A TRIANGLE
+
+Description:
+Implement a method that accepts 3 integer values a, b, c. The method should return true if a triangle can be built with the sides of given length and false in any other case.
+
+(In this case, all triangles must have surface greater than 0 to be accepted).
+
+FUNDAMENTALSMATHEMATICSALGORITHMSNUMBERSUTILITIES
