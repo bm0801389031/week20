@@ -1,0 +1,34 @@
+input
+read this string if any letter is out of the a -m spectrum
+return the count of any letter and the length of the string
+goined by a forward slash
+
+
+
+function
+
+
+
+
+output
+
+'aaammmmz' = '1/7'
+
+
+1. //function statement named printerError with parameter s
+
+2. //declare a place holder variable named count to zero
+
+3. // declare a new variable out of the old parameter named ss
+// replace letters from the string n - z using regex with hash 
+// split every letter to make an array of strings of letters
+
+4. //for loop let i asssigned to zero i is less than ss.length condition
+//i plus plus after every iteration
+
+5. //conditional if statemetn ss at i index equal to '#'
+
+6.     	//count plus plus 
+
+7.   //return count plus quates which idicates make in to string separated by 
+  //forwar slash plus s.length
