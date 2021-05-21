@@ -1,0 +1,33 @@
+intput
+
+
+
+function
+
+
+
+output
+
+
+
+1. //function statemetn named busStops with parameter busStop
+
+
+2. //empty array place holder named inside
+
+3. //empty array place holder named outside
+
+4. //for loop variable assigned to 0 i is les than busStop.length condition
+//i plus plus
+
+5. //push called on inside variable parameter of push busStop i index 0 secon index
+
+6. //push called outside variable parameter of push busStop i endex 1 second index
+
+7. //variable declaration named add assigned inside called upppon with reduce method
+/// accumulator currend accumulator plus current, zero index as starting current
+
+8.   //variable declaration named sub assigned inside called upppon with reduce method
+/// accumulator currend accumulator plus current, zero index as starting current
+
+9.   //return addd minus sub
