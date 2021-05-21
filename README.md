@@ -45,7 +45,7 @@ Examples
 "a234"   -->  false
 FUNDAMENTALSREGULAR EXPRESSIONSDECLARATIVE PROGRAMMINGADVANCED LANGUAGE FEATURESSTRINGS
 
-### third function printererror
+### fourth function printererror
 
 
 Description:
@@ -68,7 +68,7 @@ error_printer(s) => "8/22"
 FUNDAMENTALS
 
 
-## fourth function find next square 
+## fifth function find next square 
 
 
 Description:
@@ -86,7 +86,7 @@ findNextSquare(114) --> returns -1 since 114 is not a perfect square
 FUNDAMENTALSNUMBERSALGEBRAMATHEMATICSALGORITHMS
 
 
-## fifth function named categorize
+## sixth function named categorize
 
 
 Description:
@@ -107,3 +107,25 @@ Output will consist of a list of string values (in Haskell: Open or Senior) stat
 Example Output
 ["Open", "Open", "Senior", "Open", "Open", "Senior"]
 FUNDAMENTALSRULES
+
+
+### seventh function ones and zeros
+
+Description:
+Given an array of ones and zeroes, convert the equivalent binary value to an integer.
+
+Eg: [0, 0, 0, 1] is treated as 0001 which is the binary representation of 1.
+
+Examples:
+
+Testing: [0, 0, 0, 1] ==> 1
+Testing: [0, 0, 1, 0] ==> 2
+Testing: [0, 1, 0, 1] ==> 5
+Testing: [1, 0, 0, 1] ==> 9
+Testing: [0, 0, 1, 0] ==> 2
+Testing: [0, 1, 1, 0] ==> 6
+Testing: [1, 1, 1, 1] ==> 15
+Testing: [1, 0, 1, 1] ==> 11
+However, the arrays can have varying lengths, not just limited to 4.
+
+FUNDAMENTALSARRAYS
