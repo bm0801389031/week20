@@ -1,0 +1,29 @@
+intput
+an int and we are trying to find the divisors
+
+
+
+function
+
+
+
+
+output
+12 = 2, 3, 4, 6
+
+
+1. //function statemetn named divisor with parameter integer
+
+2. //place holder empty array anmed res
+
+3. //for loop variable i assigned to 2 as initiator
+// i is less or equal to integer condition
+//i plus plus after every loop
+
+4. //if statemetn integer mudulus i is equal to zero
+
+5. //res.push i 
+//this bushes every i index that is divisable
+
+6. //return res.length which checks that the length is at least one
+//turnary operator res if truthy integer if falsy plus ' is prime'
