@@ -1,0 +1,17 @@
+input
+two numbers, get the sum of the numbers and 
+return be the binary format of the sum in string form
+
+function
+
+
+
+output
+2 = 10
+
+
+1. //function statement named addBinary with two parameters
+//a,b
+
+2. //return a+b to get me the whole number and call to string
+//with redex 2 meaning translate the whole number in to binary
