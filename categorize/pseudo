@@ -1,0 +1,21 @@
+input 
+if the applying member is 55 and older with a handicap of 8 
+categorize as senior else open
+
+
+function
+
+
+
+output
+55, 8 = senior
+
+
+1. //function statement named openOrSenior with parameter data
+
+2. //return data.map then destructior each sub array my naming them
+//withing the paramter of map () and squar bracket [] to name 
+//the first index of the sub array age comma handicap names the secon index
+//arrow function pointng at my statement all in paranthasis age greater
+//than 54 and hadicap greater tha 7 cose paranthasis  turnary operator 
+/// if truthy 'senior' string if falsy open string
