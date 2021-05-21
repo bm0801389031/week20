@@ -1,0 +1,26 @@
+input
+an array of strings of friends names, and we only 
+want an array of the names with the length of 4
+
+
+function
+
+
+
+output
+(["Ryan", "Kieran", "Mark"]) ===== ["Ryan", "Mark"])
+
+
+1. //function statement named friend with paramter friends
+
+2. //empty array place holder named friendsArray
+
+3. //for loop let i assigned to zero; condition i less than friends length;
+/// i plus plus
+
+4.  //if friends at i index length is equal to 4 
+
+5.   //run this statement friends array.push friends at i index 
+  //this will create a new array with friends of the length size 4
+
+  6.   //reutrn friends array 
