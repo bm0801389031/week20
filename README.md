@@ -228,3 +228,15 @@ NOTE: In PHP the function is called series_sum().
 
 FUNDAMENTALSLOOPSCONTROL FLOWBASIC LANGUAGE FEATURESARITHMETICMATHEMATICSALGORITHMSNUMBERSSEQUENCESARRAYS
 
+
+### twelvth function reverse order
+
+
+1. //function statement named reverseWords with parameter str
+
+2. //return call split method on str to split each word
+//in to an array of words then call map to make a function on 
+//each word str arrrow function str.split split each letter of the word
+//then call reverse method and then call join method to join back
+// all the letters then join method again to join all the words
+
