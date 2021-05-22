@@ -1,0 +1,25 @@
+input
+add all the fractions up according to the following fraction
+
+
+function
+
+
+
+
+output
+3 = 1.39
+
+
+1. //function name SeriesSum with paramter n
+
+2. //variable declaration place holder 0
+
+3. //for loop variable i index assigned to zero; i less than n;
+//i plus plus
+
+4. //to get the series fraction to incroment the formula is 
+//sum plus equals 1 divided by parenthese 3 times i plus 1
+
+5. //return call toFixed method on sum with parameter 2 meaning return 
+//only two decimal places
