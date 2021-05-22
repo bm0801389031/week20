@@ -1,0 +1,22 @@
+input
+add up arry and check if sum is odd or even
+
+
+
+
+function
+
+
+
+output
+1,2,3 = 6 = 'even' return as string 
+
+1. //function statement named oddOrEven with parameter array
+
+2. //declare a variable giving me the sum off all the elements within 
+//my array
+//let summed assigned array called with reduce method two parameters
+//accumulator and current arrow function  acc plus cur, with a starting 0 acc
+
+3.   //return summed modulus 2 equal to remainder of zero
+   //truthy 'even' falsy 'odd'
